@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App ul, li{
+  list-style: none;
+}
+.App button{
+  background: black;
+  color:azure;
+  margin-left: 40px;
+}
+.header button{
+  background-color: blue;
+  padding: 20px;
+  
+}
+input {
+  background-color: rgb(243, 237, 237);
+  color: black;
+  padding: 20px;
+}
